@@ -280,11 +280,20 @@ img {
   gap: 48px 24px;
 }
 
+.portfolio-item-cont {
+  margin: 0 auto;
+  border-bottom: 1px solid #e7e9fc;
+  border-left: 1px solid #e7e9fc;
+  border-right: 1px solid #e7e9fc;
+  padding: 32px 16px;
+  }
+
 .portfolio-list-item {  
 }
 
 
 .list-item-pic {
+  background-color: #fff;
 }
 
 .list-item-subtitle {
@@ -301,13 +310,7 @@ img {
   letter-spacing: 0.02em;
 }
 
-.portfolio-item-cont{
-  margin: 0 auto;
-  border-bottom: 1px solid #e7e9fc;
-border-left: 1px solid #e7e9fc;
-border-right: 1px solid #e7e9fc;
-padding: 32px 16px
-}
+
 
 /* Footer */
 .footer {
